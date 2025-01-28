@@ -3,6 +3,8 @@
 
 Amigo Secreto consiste en una aplicación sencilla basada en JavaScript que permite a los usuarios agregar una lista de amigos y realizar un sorteo para seleccionar un amigo al azar.
 
+[Ver el proyecto](https://tu-usuario.github.io/amigo-secreto/) 🚀
+
 ## Funcionalidades
 
 **Agregar amigos a la lista**
